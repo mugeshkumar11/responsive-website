@@ -70,6 +70,7 @@
 	color: rgba(0, 0, 0, 0.9);
 }
 /* banner start */
+
 .container{
 	width:100%;
 	margin:auto;
@@ -126,6 +127,7 @@
 	background-color:#213b52;
 	color:#fff;
 }
+
 @media (min-width:768px){
 	.container{
 		width:90%;
@@ -186,6 +188,7 @@
 		color:#fff;
 	}
 }
+
 @media (min-width:1024px){
 	.container{
 		width:82%;

@@ -116,7 +116,7 @@
 		color: #eda543;
 	}
 }
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -335,7 +335,7 @@
 	}
 }
 
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -467,7 +467,7 @@ transition: .3s;
 		transition: .2s;
 	}
 }
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -512,7 +512,7 @@ transition: .3s;
 .about{
 	background: linear-gradient(180deg, #f2f6fa 0%, #fff 100%);
 	padding-top:10px;
-	margin-bottom:50px;
+	margin-bottom:20px;
 }
 .aboutflex{
 	padding-top:30px;
@@ -545,31 +545,35 @@ transition: .3s;
 }
 .aboutbox{
 	position:relative;
-	display:flex;
+	
 	width:100%;
 	padding-top:30px;
 }
 .aboutbox2{
 	position:relative;
-	display:flex;
+	
 	width:100%;
-	padding-top:30px;
+	
 }
 .abouticon1{
-	width:50%;
+	width:100%;
 	padding-left:45px;
+	padding-bottom: 20px;
 }
 .abouticon3{
-	width:50%;
+	width:100%;
 	padding-left:45px;
+	padding-bottom: 20px;
 }
 .abouticon4{
-	width:50%;
+	width:100%;
 	padding-left:50px;
+	padding-bottom: 20px;
 }
 .abouticon2{
-	width:50%;
+	width:100%;
 	padding-left:50px;
+	padding-bottom: 20px;
 }
 .abouttext h3{
     font-family: "Raleway", sans-serif;
@@ -590,7 +594,7 @@ transition: .3s;
 	color:#fdc134;
 	font-size:38px;	
 	position:absolute;
-	left:49%;
+	left:-10px;
 }
 .abouticon3 i{
 	font-family:sans-serif;
@@ -604,7 +608,7 @@ transition: .3s;
 	color:#fdc134;
 	font-size:38px;	
 	position:absolute;
-	left:49%;
+	left:-10px;
 }
 .aboutbox h3:hover {
      color: #fdc134;
@@ -727,7 +731,7 @@ transition: .3s;
 	 color: #fdc134;
 }
 }
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -1028,7 +1032,8 @@ transition: .3s;
 	.servicecontent{
 		margin-left:50px;
 		margin-right:80px;
-		margin-top:-20px;
+		margin-top:-50px;
+		top: 0;
 		background-color:#fff;
 		border-top: 4px solid #fff;
 		padding:30px;
@@ -1081,7 +1086,7 @@ transition: .3s;
 		color: #fdc134;
 	}
 }
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -1151,7 +1156,8 @@ transition: .3s;
 	.servicecontent{
 		margin-left:60px;
 		margin-right:90px;
-		margin-top:-60px;
+		margin-top:-50px;
+		top: 0;
 		background-color:#fff;
 		border-top: 4px solid #fff;
 		padding:30px;
@@ -1631,7 +1637,7 @@ transition: .3s;
 	}
 }
 
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -2148,7 +2154,7 @@ transition: .3s;
 		color:#fff;
 	}
 }
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -2176,7 +2182,7 @@ transition: .3s;
 		width:2.7%;
 		margin-left:48.5%;
 		position:absolute;
-		top:53%;
+		top:52.5%;
 	}
 	.portfolioheading hr{
 		width:9%;
@@ -2470,7 +2476,7 @@ transition: .3s;
 		 color: #fdc134;
 	}
 }
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -2972,7 +2978,7 @@ transition: .3s;
 	
 }
 
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -3000,7 +3006,7 @@ transition: .3s;
 		width:2.7%;
 		margin-left:48.5%;
 		position:absolute;
-		top:59%;
+		top:58.5%;
 	}
 	.pricingheading hr{
 		width:9%;
@@ -3048,13 +3054,13 @@ transition: .3s;
 		color:#c6c3be;
 		font-family:sans-serif;
 		font-size:18px;	
-		padding-right:50px;
+		padding-right:0px;
 	}
 	.pricingbox p{
 		color:#acacbb;
 		font-family:sans-serif;
 		font-size:16px;	
-		padding-left:50px;
+		padding-left:0px;
 		padding-bottom:15px;
 	}
 	.prihrline p {
@@ -3062,7 +3068,7 @@ transition: .3s;
 		color:#acacbb;
 		font-family:sans-serif;
 		font-size:16px;	
-		padding-left:50px;
+		padding-left:0px;
 		padding-bottom:15px;
 	}
 	.pricebtn{
@@ -3084,7 +3090,7 @@ transition: .3s;
 		color:#717071;
 		font-family:sans-serif;
 		font-size:28px;	
-		padding-top:30px;
+		padding-top:0px;
 		padding-bottom:15px;
 	}
 	.pricingbox3 h3{
@@ -3097,7 +3103,7 @@ transition: .3s;
 		color:#c6c3be;
 		font-family:sans-serif;
 		font-size:18px;	
-		padding-right:50px;
+		padding-right:0px;
 	}
 	.pricingbox i{
 		color:#fdbf2d;
@@ -3118,6 +3124,7 @@ transition: .3s;
 	}
 	.pricebox2 {
 		text-align:center;
+		padding-left: 0px;
 	}
 	.pricebox2 h2{
 		color:#717071;
@@ -3137,7 +3144,7 @@ transition: .3s;
 		color:#c6c3be;
 		font-family:sans-serif;
 		font-size:18px;	
-		padding-right:50px;
+		padding-right:0px;
 	}
 	.pricingbox2 i{
 		color:#fdbf2d;
@@ -3147,7 +3154,7 @@ transition: .3s;
 		color:#acacbb;
 		font-family:sans-serif;
 		font-size:16px;	
-		padding-left:50px;
+		padding-left:0px;
 		padding-bottom:15px;
 	}
 	.pricebutton2{
@@ -3355,7 +3362,7 @@ transition: .3s;
 		width:1180px
 	}
 }
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -3383,7 +3390,7 @@ transition: .3s;
 	width:2.7%;
 	margin-left:48.5%;
 	position:absolute;
-    top:59%;
+    top:58.5%;
 }
 .frequentheading hr{
 	width:9%;
@@ -3456,100 +3463,7 @@ transition: .3s;
     border-bottom: 1px solid #dde8f1;
 	width:1180px
 }
-	.frequently{
-		background: linear-gradient(180deg, #f2f6fa 0%, #fff 100%);
-		padding-bottom:70px;
-	}
-	.frequentheading{
-		text-align:center;
-		padding-top:50px;
-		position:relative;
-	}
-	.frequentheading h3{
-		font-family: "Poppins", sans-serif;
-		font-weight:700;
-		color:#214061;
-		font-size:32px;	
-		padding-bottom:10px;
-	}
-	.frequenthrline{
-		border-bottom:3px solid #fdbf2b;
-		width:2.7%;
-		margin-left:48.5%;
-		position:absolute;
-		top:59%;
-	}
-	.frequentheading hr{
-		width:9%;
-		color:#ebedef;
-		margin-left: 45%;
-	}
-	.frequentheading p{
-		color:#5a5959;
-		font-family: "Open Sans", sans-serif;
-		font-size:16px;	
-		padding-top:10px;
-		line-height:18px;
-		padding-bottom:15px;
-	}
-	.frequentlyflex{
-		display:flex;
-		width:100%;
-		flex-wrap:wrap;
-		padding-top:40px;
-	}
-	.frequent1{
-		display:flex;
-	}
-	.frequent2{
-		display:flex;
-	}
-	.frequent3{
-		display:flex;
-	}
-	.frequent4{
-		display:flex;
-	}
-	.frequent5{
-		display:flex;
-	}
-	.frequentquestion{
-		width:41.67%;
-	}
-	.frequentanswer{
-		width:58.33%;
-	}
-	.frequentquestion h3{
-		font-size: 16px;
-		line-height: 26px;
-		font-weight: 600;
-		margin: 0 0 10px 28px;
-		font-family: "Poppins", sans-serif;
-		color: #444444;
-	}
 	
-	.frequentanswer h4{
-		font-size: 15px;
-		font-family: "Open Sans", sans-serif;
-		color: #444444;
-		 line-height: 26px;
-		 font-weight:400;
-	}
-	.frequentquestion i{
-		
-		color: #9bbbd7;
-		font-size: 20px;
-		float: left;
-		line-height: 0;
-		padding: 13px 0 0 0;
-		margin: 0;
-	}
-	.askedhrline{
-		margin: 20px 0;
-		padding: 10px 0;
-		border-bottom: 1px solid #dde8f1;
-		width:1180px
-	}
 }
 /*faq end */
 /*contact start */
@@ -3970,7 +3884,7 @@ form .formgroup {
 	}
 }
 
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -3998,7 +3912,7 @@ form .formgroup {
 		width:2.7%;
 		margin-left:48.5%;
 		position:absolute;
-		top:59%;
+		top:58.5%;
 	}
 	.contactheading hr{
 		width:9%;
@@ -4030,7 +3944,7 @@ form .formgroup {
 	.contactboxbig {
 		width: 100%;
 		height:auto;
-		margin:20px;
+		margin-right: 0px;
 	}
 	.contactboxbig {
 		background-color: #fff;
@@ -4048,7 +3962,7 @@ form .formgroup {
 	.contactbox {
 		width: 50%; 
 		height: auto;
-		margin:10px 18px;
+		margin-left: 20px;
 	 }
 	.contactbox {
 		
@@ -4085,7 +3999,7 @@ form .formgroup {
 		font-size: 20px;
 		color: #666;
 		font-weight: 700;
-		margin: 10px 0;
+		margin: 10px 0; 
 	}
 	.contactboxbig p{
 		padding: 0;
@@ -4108,7 +4022,7 @@ form .formgroup {
 		background-color: #fff;
 		padding:30px;
 		margin-top: 20px;
-		margin-bottom:10px;
+		margin-bottom:0px;
 		box-shadow: 0 0 20px #ccc;
 	}
 	 .contactformbox form{
@@ -4502,7 +4416,7 @@ z-index:2;
 	}
 
 }
-@media (min-width:1030px){
+@media (min-width:1024px){
 	.container{
 		width:87%;
 		margin:auto;
@@ -4551,7 +4465,7 @@ z-index:2;
 		font-size: 14px;
 		z-index:2;
 		position:absolute;
-		right:-840px;
+		right:-860px;
 		top: 70%;
 		bottom: 20%;
 	}
@@ -4636,7 +4550,7 @@ z-index:2;
 		z-index:2;
 		position:absolute;
 		top:45%;
-		right:44%;
+		right:42%;
 	}
 	.footericons i{
 		font-size: 18px;

@@ -5188,6 +5188,7 @@ form .formgroup {
 	color: #fff;
 	font-size: 14px;
 	z-index: 2;
+	margin-bottom: 10px;
 }
 
 .footercopy h4 {
@@ -5368,6 +5369,7 @@ form .formgroup {
 		color: #fff;
 		font-size: 14px;
 		z-index: 2;
+		margin-bottom: 10px;
 	}
 	
 	.footercopy h4 {
@@ -5554,6 +5556,7 @@ form .formgroup {
 		color: #fff;
 		font-size: 14px;
 		z-index: 2;
+
 	}
 	
 	.footercopy h4 {

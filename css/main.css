@@ -1185,7 +1185,7 @@
 
 .servicebox1 {
 	width: 100%;
-	padding: 0px 30px;
+	padding: 0px 10px;
 }
 
 .serviceimage {
@@ -1207,7 +1207,7 @@
 	width: 85%;
 	position: relative;
 	top: -10%;
-	margin: 0px 22px;
+	margin: 0px 24px;
 	background-color: #fff;
 	border-top: 4px solid #fff;
 	padding: 30px;
@@ -1332,6 +1332,7 @@
 		margin-top: 20px;
 		display: flex;
 		flex-wrap: wrap;
+		padding: 0px 30px;
 
 	}
 
@@ -1483,6 +1484,7 @@
 		margin-top: 20px;
 		display: flex;
 		flex-wrap: wrap;
+		padding: 0px 30px;
 
 	}
 

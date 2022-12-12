@@ -1207,7 +1207,7 @@
 	width: 85%;
 	position: relative;
 	top: -10%;
-	margin: 0px 24px;
+	margin: 0px auto;
 	background-color: #fff;
 	border-top: 4px solid #fff;
 	padding: 30px;
@@ -1278,7 +1278,7 @@
 
 	.service {
 		background: linear-gradient(180deg, #f2f6fa 0%, #fff 100%);
-		margin-bottom: 30px;
+		
 	}
 
 	.serviceheading {
@@ -1353,11 +1353,9 @@
 
 	.servicecontent {
 		width:90%;
-		margin-top: -50px;
+		top: -50px;
 		position: relative;
-		margin-left: 18px;
-		margin-right: 20px;
-		top: 0;
+		margin: auto;
 		background-color: #fff;
 		border-top: 4px solid #fff;
 		padding: 30px;
@@ -1503,10 +1501,8 @@
 	.servicecontent {
 		position: relative;
 		width:90%;
-		margin-left: 20px;
-		margin-right: 20px;
-		margin-top: -60px;
-		top: 0;
+		margin: auto;
+		top: -60px;
 		background-color: #fff;
 		border-top: 4px solid #fff;
 		padding: 30px;
@@ -1596,11 +1592,9 @@
 
 	.servicecontent {
 		position: relative;
-		width:92%;
-	    margin-left: 22px;
-		margin-right: 20px;
-		margin-top: -60px;
-		top: 0;
+		width:90%;
+		top: -60px;
+		margin:0px auto;
 		background-color: #fff;
 		border-top: 4px solid #fff;
 		padding: 30px;

@@ -146,10 +146,11 @@
 	font-family: "Poppins", sans-serif;
 	font-weight: 700;
 	color: #d2e0ed;
-	font-size: 34px;
+	font-size: 30px;
 	padding-bottom: 20px;
 	line-height: 32px;
-
+    padding-top: 20px;
+	text-align: left;
 }
 .bannertext p {
 	font-family: "Raleway", sans-serif;
@@ -1521,7 +1522,8 @@
 		margin-top: 30px;
 		box-shadow: 2px 2px 2px 2px #eceff3;
 		margin-left: 0%;
-		text-align: center;
+		text-align: start;
+		padding: 33px;
 	}
 	.pricingbox1 {
 		text-align: center;
@@ -1611,7 +1613,8 @@
 		height: 460px;
 		box-shadow: 2px 2px 2px 2px #eceff3;
 		margin-left: 0%;
-		text-align: center;
+		text-align: start;
+		padding: 33px;
 	}
 	.pricebox2 {
 		text-align: center;
@@ -2178,7 +2181,7 @@ form .formgroup {
 	.contactbox {
 		width: 50%;
 		height: auto;
-		margin-left: 20px;
+		margin-left: 18px;
 	}
    .contactformbox {
 		height: auto;
@@ -2197,13 +2200,13 @@ form .formgroup {
 		margin-bottom: 20px;
 	}
 	.formgroup1 input {
-		width: 82%;
+		width: 91%;
 		height: 30px;
 		border: solid 1px #ccc;
 		padding-left: 15px;
 	}
 	.formgroup input {
-		width: 92%;
+		width: 91%;
 		height: 30px;
 		margin-right: 30px;
 		border: solid 1px #ccc;
@@ -2290,13 +2293,13 @@ form{
 	display: flex;
 }
 .footerform input {
-	padding: 12px 0px 12px 0px;
+	padding: 12px 0px 12px 15px;
 	width: 90%;
 	border-radius: 50px;
 	font-size: 15px;
 	box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
 	border: none;
-	margin-left: 20px;
+	margin-left: 20px; 
 }
 .footerform button {
 	position: absolute;
@@ -2372,7 +2375,7 @@ form{
 }
 @media (min-width:1024px) {
 	.footerform input {
-		padding: 12px 0px 12px 0px;
+		padding: 12px 0px 12px 15px;
 		width: 40%;
 		margin-left: 30%;
 		border-radius: 50px;
